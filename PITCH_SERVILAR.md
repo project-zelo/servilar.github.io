@@ -1,5 +1,5 @@
 # 🏠 PITCH SERVILAR
-## O Uber dos Serviços Domésticos
+## Serviços Domésticos em Tempo Real
 
 ---
 
@@ -52,9 +52,9 @@ Enquanto isso, João, um encanador experiente, está em casa assistindo TV sem n
 
 ## 💡 3. PROPOSTA DE VALOR CLARA
 
-### 🚀 **"O Uber dos Serviços Domésticos"**
+### 🚀 **Atendimento On-Demand para Serviços Domésticos**
 
-**ServiLar é a primeira plataforma brasileira de serviços domésticos com atendimento em tempo real.**
+**ServiLar é a primeira plataforma brasileira de serviços domésticos com atendimento em tempo real, conectando clientes e prestadores instantaneamente.**
 
 ### ⚡ O Diferencial da Velocidade
 
@@ -73,7 +73,7 @@ Cliente solicita → Prestador aceita → Serviço executado
 - ⚡ Resposta em minutos, não em dias
 - 🛡️ Prestadores verificados e avaliados
 - 💰 Preços transparentes e comparáveis
-- ⭐ Sistema de avaliações real-time
+- ⭐ Sistema de avaliações em tempo real
 - 🔒 Pagamento seguro e protegido
 
 **Para Prestadores:**
@@ -87,7 +87,7 @@ Cliente solicita → Prestador aceita → Serviço executado
 
 ## 💰 4. MODELO DE NEGÓCIO ESTRUTURADO
 
-### 💸 Monetização (Modelo Uber)
+### 💸 Monetização (Modelo On-Demand)
 
 **Comissão sobre transações:** 5% a 15% por serviço contratado
 
@@ -425,7 +425,7 @@ npm run lint          # Verificação de código
 - Falta de tempo para resolver problemas domésticos
 - Valorizam conveniência e rapidez
 - Dispostos a pagar mais por atendimento imediato
-- Usuários frequentes de apps (Uber, iFood, Rappi)
+- Usuários frequentes de apps de serviços on-demand
 
 👩‍👧‍👦 **Famílias com Filhos**
 - Necessidade frequente de reparos e manutenção
@@ -502,7 +502,7 @@ npm run lint          # Verificação de código
 1. **First-mover advantage** em atendimento imediato
 2. **Network effect** → Quanto mais prestadores, mais clientes. Quanto mais clientes, mais prestadores.
 3. **Barreiras de entrada altas** → Construir confiança e base de usuários leva tempo
-4. **Brand positioning** → "O Uber dos Serviços" é simples de entender
+4. **Brand positioning** → "Serviços domésticos em tempo real" é simples de entender
 5. **Timing perfeito** → Pós-pandemia, digitalização acelerada
 
 ---
@@ -905,9 +905,9 @@ npm run lint          # Verificação de código
 
 > **"Você já precisou de um encanador às 23h? Ou teve que esperar uma semana para trocar uma torneira?"**
 >
-> **O ServiLar é o Uber dos Serviços Domésticos.**
+> **O ServiLar conecta você a profissionais qualificados em tempo real.**
 >
-> **Conectamos clientes e prestadores em tempo real. Você solicita, um profissional aceita em minutos, e o serviço é feito no mesmo dia.**
+> **Você solicita, um prestador aceita em minutos, e o serviço é feito no mesmo dia. Simples assim.**
 >
 > **Diferente das plataformas tradicionais que trabalham com orçamentos que demoram dias, nós trabalhamos com execução imediata.**
 >
@@ -927,7 +927,7 @@ Não competimos diretamente com plataformas de orçamentos. Elas são focadas em
 ### ❓ "E se prestadores não aceitarem pagar comissão?"
 
 **Resposta:**
-Modelo validado (Uber, iFood, 99). Prestadores pagarão porque:
+Modelo on-demand validado por diversas plataformas de sucesso. Prestadores pagarão porque:
 1. Sem custo de marketing (panfletos, anúncios)
 2. Mais clientes = mais renda (mesmo com comissão)
 3. Flexibilidade total (aceitar ou não cada serviço)
@@ -1035,13 +1035,13 @@ Sem ele, vamos mais devagar, mas vamos.
 5. **Lançamento público em São Paulo**
 6. **Dominar São Paulo**
 7. **Expandir para outras capitais**
-8. **Ser o Uber dos Serviços Domésticos no Brasil**
+8. **Ser a referência nacional em serviços domésticos on-demand**
 
 ---
 
 ## 📞 Contato
 
-**Projeto:** ServiLar - O Uber dos Serviços Domésticos
+**Projeto:** ServiLar - Serviços Domésticos em Tempo Real
 **Time:** 5 desenvolvedores apaixonados
 **Status:** MVP 100% completo - Pronto para lançamento
 **Próximo Milestone:** Beta fechado em 2 semanas
